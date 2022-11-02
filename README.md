@@ -5,7 +5,7 @@
  <h3>Hello world 👋</h3>
  
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanishakapoor11&show_icons=true&theme=radical"/>
