@@ -4,7 +4,9 @@
  
  <h3>Hello world 👋</h3>
  
-<iframe src="https://giphy.com/embed/vzO0Vc8b2VBLi" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vzO0Vc8b2VBLi">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanishakapoor11&show_icons=true&theme=radical"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanishakapoor11&theme=radical"/>
