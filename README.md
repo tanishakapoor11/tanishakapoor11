@@ -1,6 +1,8 @@
- Hello world 👋
+ <h1>Tanisha Kapoor</h1>
  
- Tanisha Kapoor
+ <h2>Hello world 👋</h2>
+ 
+ 
  
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=UI+/+UX+Designer;Full+Stack+Developer;Student;)](https://git.io/typing-svg)
 
